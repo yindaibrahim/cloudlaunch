@@ -75,8 +75,6 @@ I set up a static website using Amazon S3 and created a secure system for managi
     ]
 }
 ```
-The user access keys: AKIASFNJ5IZCHK6LSDU2
-Secret key: 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
 ---
 
 ## Task 2: VPC Network Design
